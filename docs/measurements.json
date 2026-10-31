@@ -1,0 +1,21 @@
+{
+  "track": "Not Like Us \u2014 Kendrick Lamar",
+  "spotify_id": "6AI3ezQ4o3HUoP6Dhudph3",
+  "codec": "Vorbis",
+  "nominal_bitrate": 320000,
+  "sample_rate": 44100,
+  "channels": 2,
+  "duration_seconds": 274.1920861678004,
+  "pages": 2662,
+  "crc_all_valid": true,
+  "eos": true,
+  "sha256": "4307c961669a30f354e41a235d0ec5e8f31f0fd2a1f978b4fbd0df97c789724f",
+  "native_export_seconds": 0.1349673660006374,
+  "native_run_total_seconds": 3.13,
+  "offline_export_seconds": 3.1394357640001544,
+  "offline_network_and_subprocess_audit": "passed",
+  "ffmpeg_complete_decode": "passed",
+  "offline_limitation": "Requires previously saved material for this specific encoded track. Material includes a file-sized content keystream, not a recovered compact content key.",
+  "ai_assisted": true,
+  "independent_replication": false
+}
